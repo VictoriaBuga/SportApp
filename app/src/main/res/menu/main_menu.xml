@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+   <!-- <item
+        android:id="@+id/fitty_1"
+        android:icon="@drawable/ic_heart_bl"
+        android:title="Fitty"
+        android:visible="true" />-->
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_bl"
+        android:title="Home"
+        android:visible="true" />
+    <item android:title="Menu"
+        android:icon="@drawable/ic_menu_bl"
+        android:id="@+id/menu"/>
+
+    <!--<item
+        android:id="@+id/fitty_2"
+        android:icon="@drawable/ic_heart_bl"
+        android:title="Fitty"
+        android:visible="true" />-->
+
+    <!--<item android:title="Account"
+        android:icon="@drawable/ic_account_bl"
+        android:id="@+id/account"/>-->
+    <!--<item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings_wth"
+        android:title="Settings"
+        android:visible="true" />-->
+</menu>
