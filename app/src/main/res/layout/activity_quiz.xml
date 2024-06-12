@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D465A"
+    android:orientation="vertical"
+    tools:ignore="SpeakableTextPresentCheck">
+<TextView
+    android:id="@+id/tvScor"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="176dp"
+    android:layout_marginLeft="176dp"
+    android:layout_marginTop="54dp"
+    android:layout_marginEnd="177dp"
+    android:layout_marginRight="177dp"
+    android:text="Scor"
+    android:textSize="20dp"
+    android:textColor="#BBB6BB"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:id="@+id/tvIntrebare"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="176dp"
+        android:layout_marginLeft="176dp"
+        android:layout_marginTop="169dp"
+        android:layout_marginEnd="177dp"
+        android:layout_marginRight="177dp"
+        android:textColor="#BBB6BB"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:textColor="#BBB6BB"
+        android:textSize="20dp"
+        android:layout_marginTop="250dp"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
