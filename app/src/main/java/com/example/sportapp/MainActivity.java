@@ -13,8 +13,6 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.project.R;
-
 public class MainActivity extends AppCompatActivity
 {
     EditText username, password;
