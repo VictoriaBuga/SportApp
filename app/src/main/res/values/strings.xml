@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">SportApp</string>
+    <string name="app_name"></string>
+    <string-array name="how_active">
+        <item>Please Select </item>
+        <item>Very Active</item>
+        <item>Moderately Active</item>
+        <item>Lightly Active</item>
+        <item>Sedentary</item>
+    </string-array>
+
+    <string-array name="when_active">
+        <item>Please Select</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Sunday</item>
+        <item>Sunday</item>
+    </string-array>
 </resources>
