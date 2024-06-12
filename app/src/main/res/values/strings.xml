@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"></string>
+    <string name="app_name">SportApp</string>
     <string-array name="how_active">
         <item>Please Select </item>
         <item>Very Active</item>
