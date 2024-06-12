@@ -11,8 +11,6 @@ import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.project.R;
-
 public class WelcomeActivity extends AppCompatActivity
 {
     private static int splash_screen_timeout = 2000;
