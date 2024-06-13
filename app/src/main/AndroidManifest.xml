@@ -29,8 +29,31 @@
         </activity>
 
         <activity android:name=".GenderActivity" />
+        <activity android:name=".HomeActivity" />
         <activity android:name=".RegisterActivity" />
         <activity android:name=".MainActivity"/>
+        <activity android:name=".DBHelper" />
+        <activity android:name=".QuizActivity" />
+        <activity android:name=".AbsBeginnerActivity" />
+        <activity android:name=".ImaginiActivity"  />
+        <activity android:name=".AboutHealthActivity"  />
+        <activity android:name=".LoseGainActivity"  />
+        <activity android:name=".AboutYouActivity"  />
+        <activity android:name=".AbsMidActivity"  />
+        <activity android:name=".AbsAdvActivity"  />
+        <activity android:name=".ArmAdvActivity"  />
+        <activity android:name=".ArmBeginnerActivity"  />
+        <activity android:name=".ArmMidActivity"  />
+        <activity android:name=".LegAdvActivity"  />
+        <activity android:name=".LegMidActivity"  />
+        <activity android:name=".LegBeginnerActivity"  />
+        <activity android:name=".BackAdvActivity"  />
+        <activity android:name=".BackMidActivity"  />
+        <activity android:name=".BackBeginnerActivity"  />
+        <activity android:name=".ChestAdvActivity"  />
+        <activity android:name=".MenuActivity"/>
+        <activity android:name=".ChestMidActivity"  />
+        <activity android:name=".ChestBeginnerActivity"  />
     </application>
 
 </manifest>
